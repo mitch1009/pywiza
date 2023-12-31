@@ -1,6 +1,6 @@
 # pywiza
 <!-- add logo found in public folder -->
-![logo](https://cdn-za.icons8.com/nzd_GcFdm0-EyT90vWgy2Q/hylnhK9mw0aSK_SmWYy6ug/pywiza.svg)
+![logo]([https://cdn-za.icons8.com/nzd_GcFdm0-EyT90vWgy2Q/hylnhK9mw0aSK_SmWYy6ug/pywiza.svg](https://github.com/mitch1009/pywiza/blob/main/public/pywiza.png)
 **pywiza** is a modern web development framework built on top of Flask, designed to streamline the development of web applications using Python. With **pywiza**, developers can leverage the power of Flask's simplicity and flexibility while seamlessly integrating TypeScript and JSX into their projects. The framework provides a robust build system that automates the compilation and bundling of TypeScript and JSX files, allowing developers to focus on writing clean, efficient code.
 
 ## 📚 Features
